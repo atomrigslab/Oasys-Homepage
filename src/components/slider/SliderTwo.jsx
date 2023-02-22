@@ -1,5 +1,5 @@
 import React , { useState } from 'react';
-import { Link } from 'react-router-dom'
+//import { Link } from 'react-router-dom'
 import item from '../../assets/fake-data/item';
 
 // 추가
