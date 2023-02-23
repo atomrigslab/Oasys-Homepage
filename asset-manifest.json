@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Oasys-Homepage/static/css/main.8e4f9c13.css",
-    "main.js": "/Oasys-Homepage/static/js/main.14cff822.js",
+    "main.css": "/Oasys-Homepage/static/css/main.8f3f9984.css",
+    "main.js": "/Oasys-Homepage/static/js/main.9a405dcc.js",
     "static/media/item-08.png": "/Oasys-Homepage/static/media/item-08.75307cbbc4bf3f8bd031.png",
-    "static/media/bg-element.jpg": "/Oasys-Homepage/static/media/bg-element.adcdea7d8b378ae31695.jpg",
+    "static/media/bg-element.png": "/Oasys-Homepage/static/media/bg-element.6aedd94d9625ab0c15b5.png",
     "static/media/fa-duotone-900.svg": "/Oasys-Homepage/static/media/fa-duotone-900.8a4beea8bb7df767b32d.svg",
     "static/media/fa-light-300.svg": "/Oasys-Homepage/static/media/fa-light-300.5ca944102bc3a85c0721.svg",
     "static/media/fa-regular-400.svg": "/Oasys-Homepage/static/media/fa-regular-400.7c9e0468a450e0841ca9.svg",
@@ -71,11 +71,11 @@
     "static/media/team-12.jpg": "/Oasys-Homepage/static/media/team-12.4b75e9fbfdfb63c88aaf.jpg",
     "static/media/item-16.png": "/Oasys-Homepage/static/media/item-16.558f9aa5219ee304a417.png",
     "index.html": "/Oasys-Homepage/index.html",
-    "main.8e4f9c13.css.map": "/Oasys-Homepage/static/css/main.8e4f9c13.css.map",
-    "main.14cff822.js.map": "/Oasys-Homepage/static/js/main.14cff822.js.map"
+    "main.8f3f9984.css.map": "/Oasys-Homepage/static/css/main.8f3f9984.css.map",
+    "main.9a405dcc.js.map": "/Oasys-Homepage/static/js/main.9a405dcc.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e4f9c13.css",
-    "static/js/main.14cff822.js"
+    "static/css/main.8f3f9984.css",
+    "static/js/main.9a405dcc.js"
   ]
 }
