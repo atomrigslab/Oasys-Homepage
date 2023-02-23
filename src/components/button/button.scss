@@ -86,7 +86,12 @@
 }
 
 .btn-action.style-2 {
-    background: $main-color;
+    
+    background: linear-gradient(180deg, #0090E7 34.38%, #0051A6 100%);
+/* 블루그림자 */
+
+    box-shadow: 0px 0px 20px rgba(0, 113, 182, 0.45);
+
     padding: 20px 48px;
     border-radius: 33px;
     z-index: 1;
