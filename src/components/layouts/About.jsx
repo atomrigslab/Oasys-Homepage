@@ -8,7 +8,7 @@ const About = () => {
     const [data] = useState(
         {
             subtitle: 'About Us',
-            title: 'GAMVERSE',
+            title: '',
             desc1: 'Gamverse is something.. somthing.. ',
             desc2: 'Gamverse is great Oasys L2 chain that accomplish everything what you have in mind',
         }
