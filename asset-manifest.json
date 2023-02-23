@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Oasys-Homepage/static/css/main.d39e2b0b.css",
+    "main.css": "/Oasys-Homepage/static/css/main.648ccd6c.css",
     "main.js": "/Oasys-Homepage/static/js/main.82a446de.js",
     "static/media/item-08.png": "/Oasys-Homepage/static/media/item-08.7ced035af2a0cb169664.png",
     "static/media/bg-element.jpg": "/Oasys-Homepage/static/media/bg-element.58dfb941e48dfececa61.jpg",
@@ -71,11 +71,11 @@
     "static/media/team-12.jpg": "/Oasys-Homepage/static/media/team-12.4b75e9fbfdfb63c88aaf.jpg",
     "static/media/item-16.png": "/Oasys-Homepage/static/media/item-16.558f9aa5219ee304a417.png",
     "index.html": "/Oasys-Homepage/index.html",
-    "main.d39e2b0b.css.map": "/Oasys-Homepage/static/css/main.d39e2b0b.css.map",
+    "main.648ccd6c.css.map": "/Oasys-Homepage/static/css/main.648ccd6c.css.map",
     "main.82a446de.js.map": "/Oasys-Homepage/static/js/main.82a446de.js.map"
   },
   "entrypoints": [
-    "static/css/main.d39e2b0b.css",
+    "static/css/main.648ccd6c.css",
     "static/js/main.82a446de.js"
   ]
 }
