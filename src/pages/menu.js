@@ -27,11 +27,11 @@ const menus = [
         ]
     },*/
     {
-        id: 2,
+        id: 1,
         name: 'Explorer',
         links: 'https://goerli.etherscan.io/'
     },{
-        id: 3,
+        id: 2,
         name: 'Docs',
         links: 'https://www.gitbook.com/'
     },
