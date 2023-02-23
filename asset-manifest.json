@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Oasys-Homepage/static/css/main.518ded68.css",
-    "main.js": "/Oasys-Homepage/static/js/main.049669e6.js",
+    "main.js": "/Oasys-Homepage/static/js/main.1b445996.js",
     "static/media/item-08.png": "/Oasys-Homepage/static/media/item-08.7ced035af2a0cb169664.png",
     "static/media/bg-element.jpg": "/Oasys-Homepage/static/media/bg-element.58dfb941e48dfececa61.jpg",
     "static/media/fa-duotone-900.svg": "/Oasys-Homepage/static/media/fa-duotone-900.8a4beea8bb7df767b32d.svg",
@@ -72,10 +72,10 @@
     "static/media/item-16.png": "/Oasys-Homepage/static/media/item-16.558f9aa5219ee304a417.png",
     "index.html": "/Oasys-Homepage/index.html",
     "main.518ded68.css.map": "/Oasys-Homepage/static/css/main.518ded68.css.map",
-    "main.049669e6.js.map": "/Oasys-Homepage/static/js/main.049669e6.js.map"
+    "main.1b445996.js.map": "/Oasys-Homepage/static/js/main.1b445996.js.map"
   },
   "entrypoints": [
     "static/css/main.518ded68.css",
-    "static/js/main.049669e6.js"
+    "static/js/main.1b445996.js"
   ]
 }
