@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Oasys-Homepage/static/css/main.e2c43796.css",
-    "main.js": "/Oasys-Homepage/static/js/main.3fb0dbc7.js",
+    "main.js": "/Oasys-Homepage/static/js/main.9bb786ba.js",
     "static/media/bg-element.jpg": "/Oasys-Homepage/static/media/bg-element.b168d2ab0b1e1cc74619.jpg",
     "static/media/fa-duotone-900.svg": "/Oasys-Homepage/static/media/fa-duotone-900.8a4beea8bb7df767b32d.svg",
     "static/media/fa-light-300.svg": "/Oasys-Homepage/static/media/fa-light-300.5ca944102bc3a85c0721.svg",
@@ -66,10 +66,10 @@
     "static/media/team-12.jpg": "/Oasys-Homepage/static/media/team-12.4b75e9fbfdfb63c88aaf.jpg",
     "index.html": "/Oasys-Homepage/index.html",
     "main.e2c43796.css.map": "/Oasys-Homepage/static/css/main.e2c43796.css.map",
-    "main.3fb0dbc7.js.map": "/Oasys-Homepage/static/js/main.3fb0dbc7.js.map"
+    "main.9bb786ba.js.map": "/Oasys-Homepage/static/js/main.9bb786ba.js.map"
   },
   "entrypoints": [
     "static/css/main.e2c43796.css",
-    "static/js/main.3fb0dbc7.js"
+    "static/js/main.9bb786ba.js"
   ]
 }
