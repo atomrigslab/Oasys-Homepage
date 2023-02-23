@@ -7,9 +7,9 @@ const About = () => {
 
     const [data] = useState(
         {
-            subtitle: 'Gamverse',
+            subtitle: 'GAMVERSE',
             title: '',
-            desc1: 'Gamverse is Layer 2 of Oasys blockchain.',
+            desc1: 'Gamverse is Layer 2 of Oasys blockchain network.',
             desc2: 'Gamverse’s extensive experience with blockchain solution company Atomrigs Lab helps users and game companies ensure Blockchain Game is running and playing reliably in Oasys.',
         }
     )

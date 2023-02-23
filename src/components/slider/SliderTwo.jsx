@@ -10,7 +10,7 @@ const SliderTwo = () => {
     const [datatext] = useState({
         subtitle: '',
         title: '-',
-        desc: 'Welcome to Gamverse'
+        desc: 'Hi there!'
     })
 
     return (

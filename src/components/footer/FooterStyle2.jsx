@@ -90,7 +90,7 @@ const FooterStyle2 = () => {
                             */}
                         </div>
                         <div className="footer_bottom">
-                            <p className="fs-16">Copyright © 2023, Gamverse</p>
+                            <p className="fs-16">Copyright © 2023, GAMVERSE</p>
                         </div>
                     </div>
                 </div>

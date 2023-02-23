@@ -19,6 +19,7 @@
         .social {
             @include flex(center,center);
             padding-left: 0;
+            
 
             li {
                 width: 60px;
