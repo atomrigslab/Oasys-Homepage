@@ -14,9 +14,9 @@ const Testimonials2 = (props) => {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="block-text center">
-                            <h1 className="heading-bg" data-aos="fade-in" data-aos-duration="1000"><span>Testimonial</span></h1>
-                            <h5 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">Testimonial</h5>
-                            <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">What People Say <br /> About us</h3>
+                            <h1 className="heading-bg" data-aos="fade-in" data-aos-duration="1000"><span>ONBOARDING</span></h1>
+                            <h3 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">Games on Gamverse</h3>
+                            {/*<h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">What People Say <br /> About us</h3>*/}
                         </div>
                     </div>
                 </div>
