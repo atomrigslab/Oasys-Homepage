@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Oasys-Homepage/static/css/main.22661c86.css",
-    "main.js": "/Oasys-Homepage/static/js/main.dc55e3e1.js",
+    "main.js": "/Oasys-Homepage/static/js/main.94549924.js",
     "static/media/bg-element.jpg": "/Oasys-Homepage/static/media/bg-element.b168d2ab0b1e1cc74619.jpg",
     "static/media/fa-duotone-900.svg": "/Oasys-Homepage/static/media/fa-duotone-900.8a4beea8bb7df767b32d.svg",
     "static/media/fa-light-300.svg": "/Oasys-Homepage/static/media/fa-light-300.5ca944102bc3a85c0721.svg",
@@ -11,13 +11,13 @@
     "static/media/Roboto-Regular.ttf": "/Oasys-Homepage/static/media/Roboto-Regular.e2c9f2e4cb62ca27fea5.ttf",
     "static/media/bg-about.jpg": "/Oasys-Homepage/static/media/bg-about.eeb2d994a19ae7c5c468.jpg",
     "static/media/fa-brands-400.svg": "/Oasys-Homepage/static/media/fa-brands-400.9d844c038451d47a6b13.svg",
-    "static/media/resizelogo3.webp": "/Oasys-Homepage/static/media/resizelogo3.18871005d36e1fed9a1d.webp",
     "static/media/fa-duotone-900.eot": "/Oasys-Homepage/static/media/fa-duotone-900.44bbc17621739acf4fb1.eot",
     "static/media/fa-duotone-900.ttf": "/Oasys-Homepage/static/media/fa-duotone-900.1bdc95a1f9dc66afe5a9.ttf",
     "static/media/fa-light-300.eot": "/Oasys-Homepage/static/media/fa-light-300.3880c3bfdb83c71aac0f.eot",
     "static/media/fa-light-300.ttf": "/Oasys-Homepage/static/media/fa-light-300.12090f9e69b431dd7bd8.ttf",
     "static/media/fa-regular-400.eot": "/Oasys-Homepage/static/media/fa-regular-400.c40388987235f1bf991f.eot",
     "static/media/fa-regular-400.ttf": "/Oasys-Homepage/static/media/fa-regular-400.7d2d3552d100ebff6fab.ttf",
+    "static/media/resizelogo3.webp": "/Oasys-Homepage/static/media/resizelogo3.85f8d135e78b3bf48d40.webp",
     "static/media/fa-solid-900.eot": "/Oasys-Homepage/static/media/fa-solid-900.86cb227acb2081cb78f9.eot",
     "static/media/fa-solid-900.ttf": "/Oasys-Homepage/static/media/fa-solid-900.113c9fd1226fcc1b036d.ttf",
     "static/media/fa-duotone-900.woff": "/Oasys-Homepage/static/media/fa-duotone-900.839608c0d3a3ebbf39a3.woff",
@@ -66,10 +66,10 @@
     "static/media/team-12.jpg": "/Oasys-Homepage/static/media/team-12.4b75e9fbfdfb63c88aaf.jpg",
     "index.html": "/Oasys-Homepage/index.html",
     "main.22661c86.css.map": "/Oasys-Homepage/static/css/main.22661c86.css.map",
-    "main.dc55e3e1.js.map": "/Oasys-Homepage/static/js/main.dc55e3e1.js.map"
+    "main.94549924.js.map": "/Oasys-Homepage/static/js/main.94549924.js.map"
   },
   "entrypoints": [
     "static/css/main.22661c86.css",
-    "static/js/main.dc55e3e1.js"
+    "static/js/main.94549924.js"
   ]
 }
