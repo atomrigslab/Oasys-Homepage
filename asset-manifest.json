@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Oasys-Homepage/static/css/main.e43f1e45.css",
-    "main.js": "/Oasys-Homepage/static/js/main.c6a0435a.js",
-    "static/media/bg-element.jpg": "/Oasys-Homepage/static/media/bg-element.adcdea7d8b378ae31695.jpg",
+    "main.css": "/Oasys-Homepage/static/css/main.7b08c136.css",
+    "main.js": "/Oasys-Homepage/static/js/main.faec2a66.js",
+    "static/media/bg-element.jpg": "/Oasys-Homepage/static/media/bg-element.b168d2ab0b1e1cc74619.jpg",
     "static/media/fa-duotone-900.svg": "/Oasys-Homepage/static/media/fa-duotone-900.8a4beea8bb7df767b32d.svg",
     "static/media/fa-light-300.svg": "/Oasys-Homepage/static/media/fa-light-300.5ca944102bc3a85c0721.svg",
     "static/media/fa-regular-400.svg": "/Oasys-Homepage/static/media/fa-regular-400.7c9e0468a450e0841ca9.svg",
     "static/media/fa-solid-900.svg": "/Oasys-Homepage/static/media/fa-solid-900.ad31562a4766855c4588.svg",
     "static/media/bg-element-2.jpg": "/Oasys-Homepage/static/media/bg-element-2.283da25fad3efc716169.jpg",
+    "static/media/Roboto-Regular.ttf": "/Oasys-Homepage/static/media/Roboto-Regular.e2c9f2e4cb62ca27fea5.ttf",
     "static/media/bg-about.jpg": "/Oasys-Homepage/static/media/bg-about.eeb2d994a19ae7c5c468.jpg",
     "static/media/fa-brands-400.svg": "/Oasys-Homepage/static/media/fa-brands-400.9d844c038451d47a6b13.svg",
     "static/media/fa-duotone-900.eot": "/Oasys-Homepage/static/media/fa-duotone-900.44bbc17621739acf4fb1.eot",
@@ -25,16 +26,16 @@
     "static/media/fa-solid-900.woff": "/Oasys-Homepage/static/media/fa-solid-900.947ecf34df074260dc7a.woff",
     "static/media/fa-duotone-900.woff2": "/Oasys-Homepage/static/media/fa-duotone-900.f27f085efb0eb08e01d6.woff2",
     "static/media/fa-regular-400.woff2": "/Oasys-Homepage/static/media/fa-regular-400.c46f5c3c07d96b6cf2b6.woff2",
-    "static/media/Roboto-Regular.ttf": "/Oasys-Homepage/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
     "static/media/fa-solid-900.woff2": "/Oasys-Homepage/static/media/fa-solid-900.35fd7cacd394b3837eee.woff2",
     "static/media/Gilroy-Bold.ttf": "/Oasys-Homepage/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
     "static/media/fa-brands-400.eot": "/Oasys-Homepage/static/media/fa-brands-400.ec9e9b6460f603b0e3c9.eot",
     "static/media/fa-brands-400.ttf": "/Oasys-Homepage/static/media/fa-brands-400.78ea304d1982f2fd33e3.ttf",
     "static/media/fa-brands-400.woff": "/Oasys-Homepage/static/media/fa-brands-400.7142440b571a91349e60.woff",
+    "static/media/item-08.png": "/Oasys-Homepage/static/media/item-08.39fb2aef4516f63fc569.png",
     "static/media/fa-brands-400.woff2": "/Oasys-Homepage/static/media/fa-brands-400.0ffa8f97ca92f387e47f.woff2",
-    "static/media/item-08.png": "/Oasys-Homepage/static/media/item-08.961451248c10e17f5588.png",
     "static/media/blog-single.jpg": "/Oasys-Homepage/static/media/blog-single.f28d6d4e0d2ed8d110ee.jpg",
     "static/media/counter.png": "/Oasys-Homepage/static/media/counter.fdd095f7c1f4e42f8544.png",
+    "static/media/resizelogo3.png": "/Oasys-Homepage/static/media/resizelogo3.c01da51d561e710f61e2.png",
     "static/media/faq.png": "/Oasys-Homepage/static/media/faq.dfbf032bfb9226707752.png",
     "static/media/blog-04.jpg": "/Oasys-Homepage/static/media/blog-04.56439755e3f828bdfbe2.jpg",
     "static/media/blog-05.jpg": "/Oasys-Homepage/static/media/blog-05.8f0b5c0a17e5262b6d81.jpg",
@@ -67,11 +68,11 @@
     "static/media/team-11.jpg": "/Oasys-Homepage/static/media/team-11.df6163fc740c51bc3592.jpg",
     "static/media/team-12.jpg": "/Oasys-Homepage/static/media/team-12.4b75e9fbfdfb63c88aaf.jpg",
     "index.html": "/Oasys-Homepage/index.html",
-    "main.e43f1e45.css.map": "/Oasys-Homepage/static/css/main.e43f1e45.css.map",
-    "main.c6a0435a.js.map": "/Oasys-Homepage/static/js/main.c6a0435a.js.map"
+    "main.7b08c136.css.map": "/Oasys-Homepage/static/css/main.7b08c136.css.map",
+    "main.faec2a66.js.map": "/Oasys-Homepage/static/js/main.faec2a66.js.map"
   },
   "entrypoints": [
-    "static/css/main.e43f1e45.css",
-    "static/js/main.c6a0435a.js"
+    "static/css/main.7b08c136.css",
+    "static/js/main.faec2a66.js"
   ]
 }
