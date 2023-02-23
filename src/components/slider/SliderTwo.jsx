@@ -27,11 +27,11 @@ const SliderTwo = () => {
                             
                             <div className="shape">
                                 <div className="item bg-1"><img src={item.item11} alt="Monteno" /></div>
-                                <div className="item bg-2"><img src={item.item12} alt="Monteno" /></div>
-                                <div className="item bg-1"><img src={item.item13} alt="Monteno" /></div>
+                                <div className="item2 bg-2"><img src={item.item12} alt="Monteno" /></div>
+                                <div className="item3 bg-1"><img src={item.item13} alt="Monteno" /></div>
                                 <div className="item bg-1"><img src={item.item14} alt="Monteno" /></div>
-                                <div className="item bg-2"><img src={item.item6} alt="Monteno" /></div>
-                                <div className="item bg-2"><img src={item.item15} alt="Monteno" /></div>
+                                <div className="item2 bg-2"><img src={item.item6} alt="Monteno" /></div>
+                                <div className="item3 bg-2"><img src={item.item15} alt="Monteno" /></div>
                                 <div className="item bg-1"><img src={item.item16} alt="Monteno" /></div>
                             </div>
                         </div>
