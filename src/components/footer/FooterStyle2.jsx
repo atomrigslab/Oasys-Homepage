@@ -91,11 +91,6 @@ const FooterStyle2 = () => {
                         </div>
                         <div className="footer_bottom">
                             <p className="fs-16">Copyright © 2023, Gamverse</p>
-                            <ul>
-                                <li><Link to="#">Terms & Condition</Link></li>
-                                <li><Link to="#">Privacy Policy</Link></li>
-                                <li><Link to="#">Cookie Policy</Link></li>
-                            </ul>
                         </div>
                     </div>
                 </div>
