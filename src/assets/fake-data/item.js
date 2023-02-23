@@ -19,7 +19,7 @@ const item = {
     item28 : require('../images/items/item-28.png'),
     item29 : require('../images/items/item-29.png'),
     technology : require('../images/items/technology.png'),
-    logo : require('../images/resizelogo3.webp'),
+    logo : require('../images/resizelogo3.png'),
 }
 
 export default item;
