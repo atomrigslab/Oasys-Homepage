@@ -30,8 +30,8 @@ body {
   color: $white;
   padding-top: $header-height;
   background-image: url('../src/assets/images/background/bg-element.jpg');
-  background-size : 2700px;
-  background-position: center;
+  
+  background-position: top;
 
 
   &.home-1 {
