@@ -22,9 +22,6 @@
   box-sizing: border-box;
 }
 
-.bgimage{
-  background-image: url('../src/assets/images/background/bg-element.jpg');
-}
 
 body {
   font-family: 'Roboto';
@@ -33,6 +30,9 @@ body {
   color: $white;
   padding-top: $header-height;
   background-image: url('../src/assets/images/background/bg-element.jpg');
+  background-size : 2700px;
+  background-position: center;
+
 
   &.home-1 {
       background-image: url('../src/assets/images/background/bg-element.jpg');

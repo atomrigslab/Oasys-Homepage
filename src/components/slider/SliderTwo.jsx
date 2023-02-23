@@ -14,7 +14,7 @@ const SliderTwo = () => {
     })
 
     return (
-        <section className="tf-section hero-slider style-2">
+        <section className="tf-section hero-slider style-2 ">
             <div className="container-fluid">
                 <div className="row">
                     <div className="col-12">
