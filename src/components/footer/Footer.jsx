@@ -51,11 +51,6 @@ const Footer = () => {
                     </div>
                     <div className="footer_bottom">
                         <p className="fs-16">Copyright © 2022, Monteno - NFT Portfolio ReactJS Template. Designed by <Link to="https://themeforest.net/user/themesflat/portfolio">Themesflat</Link></p>
-                        <ul>
-                            <li><Link to="#">Terms & Condition</Link></li>
-                            <li><Link to="#">Privacy Policy</Link></li>
-                            <li><Link to="#">Cookie Policy</Link></li>
-                        </ul>
                     </div>
                 </div>
             </div>
