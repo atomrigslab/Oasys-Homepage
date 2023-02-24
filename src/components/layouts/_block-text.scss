@@ -9,7 +9,7 @@
         &::after {
             content: '';
             position: absolute;
-            bottom: 0;
+            bottom: 20px;
             left: 0;
             width: 36px;
             height: 5px;
@@ -18,7 +18,7 @@
     }
 
     .desc {
-        font-size: 24px;
+        font-size: 54px;
     }
     &.center {
         .sub-title::after {

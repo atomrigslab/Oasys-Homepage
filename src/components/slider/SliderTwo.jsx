@@ -10,7 +10,7 @@ const SliderTwo = () => {
     const [datatext] = useState({
         subtitle: '',
         title: '-',
-        desc: 'Hi there!'
+        desc: 'Welcome to Gamverse'
     })
 
     return (
@@ -21,7 +21,7 @@ const SliderTwo = () => {
                         <div className="block-text pt-24 center">
                             {/*<h6 className="sub-title mb-6" data-aos="fade-up">{datatext.subtitle}</h6>*/}
                             {/*<h2 className="title mb-26" data-aos="fade-up">Most Popular NFT <br /> Collections</h2>*/}
-                            <div className="title mb-26" data-aos="fade-up"><img className="imgsize" src={item.logo} alt="Monteno" /></div>   {/* item.js 에 임의로 로고 위치지정  */}
+                            <div className="title mb-26" data-aos="fade-up"><img src={item.logo} alt="Monteno" /></div>   {/* item.js 에 임의로 로고 위치지정  */}
                             <p className="desc mb-53" data-aos="fade-up">{datatext.desc}</p>
                             {/*<Link to="/about" className="btn-action style-2" data-aos="fade-up" data-aos-duration="1200" >Get Connected</Link>*/}
                             

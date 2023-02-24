@@ -1,5 +1,5 @@
 const menus = [
-    /*{
+  /*{
         id: 1,
         name: 'Home',
         links: '#',
@@ -26,16 +26,17 @@ const menus = [
             },
         ]
     },*/
-    {
-        id: 1,
-        name: 'Explorer',
-        links: 'https://goerli.etherscan.io/'
-    },{
-        id: 2,
-        name: 'Docs',
-        links: 'https://www.gitbook.com/'
-    },
-    /*{
+  {
+    id: 1,
+    name: "Explorer",
+    links: "https://goerli.etherscan.io/",
+  },
+  {
+    id: 2,
+    name: "Docs",
+    links: "https://atomrigslab.gitbook.io/gamverse",
+  },
+  /*{
         id: 4,
         name: 'Pages',
         links: '#',
@@ -82,7 +83,6 @@ const menus = [
         name: 'Contact',
         links: '/contact'
     },*/
-    
-]
+];
 
 export default menus;

@@ -80,6 +80,9 @@
     .footer_bottom {
         @include flex(center,space-between);
         padding: 35px 13px;
+        font-family: $font-second;
+        font-size: 16px;
+        font-weight: 400;
 
         @include mobile {
             flex-wrap: wrap;

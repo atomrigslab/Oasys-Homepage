@@ -2,8 +2,6 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination, Scrollbar, A11y } from 'swiper';
 
-import icon from '../../assets/fake-data/icon';
-
 const Testimonials2 = (props) => {
 
     const data = props.data;
@@ -14,9 +12,8 @@ const Testimonials2 = (props) => {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="block-text center">
-                            <h1 className="heading-bg" data-aos="fade-in" data-aos-duration="1000"><span>ONBOARDING</span></h1>
                             <h3 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">Games</h3>
-                            {/*<h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">What People Say <br /> About us</h3>*/}
+                            <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">What People Say <br /> About us</h3>
                         </div>
                     </div>
                 </div>
@@ -26,6 +23,7 @@ const Testimonials2 = (props) => {
                     <div className="col-12">
                         <div className="testimonial__content style-2">
                         <Swiper
+                            className='swiper'
                             modules={[Pagination , Scrollbar, A11y]}
                             spaceBetween={30}
                             pagination={{ clickable: true }}
@@ -34,10 +32,7 @@ const Testimonials2 = (props) => {
                                     slidesPerView: 1,
                                 },
                                 767: {
-                                slidesPerView: 2,
-                                },
-                                991: {
-                                slidesPerView: 3,
+                                    slidesPerView: 2,
                                 },
                             }}
                             scrollbar={{ draggable: true }}                
@@ -46,13 +41,18 @@ const Testimonials2 = (props) => {
                                 data.map((data,index) => (
                                     <SwiperSlide key={index}>
                                         <div className="box-testimonial">
-                                        <img className="quote" src={icon.leftquote2} alt="Monteno" />
-                                        <p className="text">{data.text}</p>
+                                        <img className="quote" src={data.game} alt="Monteno" />
                                         <div className="info">
-                                            <img src={data.avt} alt="Monteno" />
                                             <div>
                                                 <h6>{data.name}</h6>
-                                                <p className="fs-16">{data.postion}</p>
+                                                <div className="social">
+                                                    <a href={data.twitter}>
+                                                        <img src={data.twitter_image} alt="twitter" />
+                                                    </a>
+                                                    <a href={data.linkedin}>
+                                                        <img src={data.linkedin_image} alt="twitter"/>
+                                                    </a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>

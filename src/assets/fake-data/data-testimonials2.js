@@ -1,25 +1,24 @@
-import avt1 from "../images/testimonial/avt-02.png";
-import avt2 from "../images/testimonial/avt-03.png";
-import avt3 from "../images/testimonial/avt-04.png";
+import game1 from "../images/testimonial/game-01.png";
+import game2 from "../images/testimonial/game-02.png";
+import twitter from "../images/testimonial/twitter.png";
+import linkedin from "../images/testimonial/linkedin.png";
 
 const dataTestimonials = [
   {
-    text: "Keniam, quis nostrud exerci ut aliquip ex ea com modo cons equat. Duis aute irure dolor in reprehen derit in voluptate velit esse cillum dolore eu fu giat nulla parinon proid",
-    avt: avt1,
-    name: "Paul Harrison,",
-    postion: "Founder & CEO",
+    game: game1,
+    name: "Fortress Arena",
+    twitter: "https://twitter.com/Fortress_Arena",
+    twitter_image: twitter,
+    linkedin: "https://www.linkedin.com/company/atomrigslab/mycompany/",
+    linkedin_image: linkedin,
   },
   {
-    text: "Keniam, quis nostrud exerci ut aliquip ex ea com modo cons equat. Duis aute irure dolor in reprehen derit in voluptate velit esse cillum dolore eu fu giat nulla parinon proid",
-    avt: avt2,
-    name: "Paul Harrison,",
-    postion: "Founder & CEO",
-  },
-  {
-    text: "Keniam, quis nostrud exerci ut aliquip ex ea com modo cons equat. Duis aute irure dolor in reprehen derit in voluptate velit esse cillum dolore eu fu giat nulla parinon proid",
-    avt: avt3,
-    name: "Paul Harrison,",
-    postion: "Founder & CEO",
+    game: game2,
+    name: "Fortress Arena",
+    twitter: "https://twitter.com/Fortress_Arena",
+    twitter_image: twitter,
+    linkedin: "https://www.linkedin.com/company/atomrigslab/mycompany/",
+    linkedin_image: linkedin,
   },
 ];
 
