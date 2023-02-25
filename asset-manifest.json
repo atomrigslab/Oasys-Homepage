@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Oasys-Homepage/static/css/main.518ded68.css",
-    "main.js": "/Oasys-Homepage/static/js/main.1b445996.js",
+    "main.css": "/Oasys-Homepage/static/css/main.6204b574.css",
+    "main.js": "/Oasys-Homepage/static/js/main.2dc3edfd.js",
     "static/media/item-08.png": "/Oasys-Homepage/static/media/item-08.7ced035af2a0cb169664.png",
     "static/media/bg-element.jpg": "/Oasys-Homepage/static/media/bg-element.58dfb941e48dfececa61.jpg",
-    "static/media/fa-duotone-900.svg": "/Oasys-Homepage/static/media/fa-duotone-900.8a4beea8bb7df767b32d.svg",
-    "static/media/fa-light-300.svg": "/Oasys-Homepage/static/media/fa-light-300.5ca944102bc3a85c0721.svg",
-    "static/media/fa-regular-400.svg": "/Oasys-Homepage/static/media/fa-regular-400.7c9e0468a450e0841ca9.svg",
-    "static/media/fa-solid-900.svg": "/Oasys-Homepage/static/media/fa-solid-900.ad31562a4766855c4588.svg",
+    "static/media/fa-duotone-900.svg": "/Oasys-Homepage/static/media/fa-duotone-900.bac7a949fdfa983ff8a5.svg",
+    "static/media/fa-light-300.svg": "/Oasys-Homepage/static/media/fa-light-300.676ceddb711397cb345f.svg",
+    "static/media/fa-regular-400.svg": "/Oasys-Homepage/static/media/fa-regular-400.ef3cf368d75e16e0a1c3.svg",
+    "static/media/fa-solid-900.svg": "/Oasys-Homepage/static/media/fa-solid-900.c4054b9e4c6b8fad2407.svg",
     "static/media/bg-element-2.jpg": "/Oasys-Homepage/static/media/bg-element-2.283da25fad3efc716169.jpg",
     "static/media/Roboto-Regular.ttf": "/Oasys-Homepage/static/media/Roboto-Regular.e2c9f2e4cb62ca27fea5.ttf",
     "static/media/bg-about.jpg": "/Oasys-Homepage/static/media/bg-about.eeb2d994a19ae7c5c468.jpg",
-    "static/media/fa-brands-400.svg": "/Oasys-Homepage/static/media/fa-brands-400.9d844c038451d47a6b13.svg",
+    "static/media/fa-brands-400.svg": "/Oasys-Homepage/static/media/fa-brands-400.4de3f482611be3bc9b93.svg",
     "static/media/fa-duotone-900.eot": "/Oasys-Homepage/static/media/fa-duotone-900.44bbc17621739acf4fb1.eot",
     "static/media/fa-duotone-900.ttf": "/Oasys-Homepage/static/media/fa-duotone-900.1bdc95a1f9dc66afe5a9.ttf",
     "static/media/fa-light-300.eot": "/Oasys-Homepage/static/media/fa-light-300.3880c3bfdb83c71aac0f.eot",
@@ -31,6 +31,7 @@
     "static/media/Gilroy-Bold.ttf": "/Oasys-Homepage/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
     "static/media/fa-brands-400.eot": "/Oasys-Homepage/static/media/fa-brands-400.ec9e9b6460f603b0e3c9.eot",
     "static/media/fa-brands-400.ttf": "/Oasys-Homepage/static/media/fa-brands-400.78ea304d1982f2fd33e3.ttf",
+    "static/media/game-01.png": "/Oasys-Homepage/static/media/game-01.fad1425ac718cc4292be.png",
     "static/media/resizelogo3.png": "/Oasys-Homepage/static/media/resizelogo3.e98175242712b1b335d8.png",
     "static/media/fa-brands-400.woff": "/Oasys-Homepage/static/media/fa-brands-400.7142440b571a91349e60.woff",
     "static/media/fa-brands-400.woff2": "/Oasys-Homepage/static/media/fa-brands-400.0ffa8f97ca92f387e47f.woff2",
@@ -45,6 +46,7 @@
     "static/media/blog-06.jpg": "/Oasys-Homepage/static/media/blog-06.8ab78764106d14f53bbf.jpg",
     "static/media/item-15.png": "/Oasys-Homepage/static/media/item-15.2e2728e6dc05da8e1f56.png",
     "static/media/item-14.png": "/Oasys-Homepage/static/media/item-14.d9bdecdec4e9cdb9b673.png",
+    "static/media/game-02.png": "/Oasys-Homepage/static/media/game-02.f5c913001dbb9f94043f.png",
     "static/media/blog-02.jpg": "/Oasys-Homepage/static/media/blog-02.f8c8f13d0c53c30c5928.jpg",
     "static/media/blog-03.jpg": "/Oasys-Homepage/static/media/blog-03.2923e55f26c9ba01c775.jpg",
     "static/media/blog-01.jpg": "/Oasys-Homepage/static/media/blog-01.fa8d21c17ee6541dda41.jpg",
@@ -71,11 +73,11 @@
     "static/media/team-12.jpg": "/Oasys-Homepage/static/media/team-12.4b75e9fbfdfb63c88aaf.jpg",
     "static/media/item-16.png": "/Oasys-Homepage/static/media/item-16.558f9aa5219ee304a417.png",
     "index.html": "/Oasys-Homepage/index.html",
-    "main.518ded68.css.map": "/Oasys-Homepage/static/css/main.518ded68.css.map",
-    "main.1b445996.js.map": "/Oasys-Homepage/static/js/main.1b445996.js.map"
+    "main.6204b574.css.map": "/Oasys-Homepage/static/css/main.6204b574.css.map",
+    "main.2dc3edfd.js.map": "/Oasys-Homepage/static/js/main.2dc3edfd.js.map"
   },
   "entrypoints": [
-    "static/css/main.518ded68.css",
-    "static/js/main.1b445996.js"
+    "static/css/main.6204b574.css",
+    "static/js/main.2dc3edfd.js"
   ]
 }
