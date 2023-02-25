@@ -19,6 +19,12 @@
 
     .desc {
         font-size: 54px;
+
+        @include mobile {
+            font-size: 30px;
+            max-width: 360px;
+            margin: auto;
+        }
     }
     &.center {
         .sub-title::after {

@@ -760,6 +760,10 @@
 .swiper {
     max-width: 770px;
     margin: auto;
+
+    @include mobile {
+        max-width: 370px;
+    }
 }
 
 .testimonials-box {
@@ -919,6 +923,7 @@
         position: relative;
         padding: 30px;
         margin-bottom: 107px;
+        text-align: center;
         .quote {
             width: 310px;
             height: 206px;
