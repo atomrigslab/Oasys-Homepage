@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Oasys-Homepage/static/css/main.55e326eb.css",
-    "main.js": "/Oasys-Homepage/static/js/main.00b5c38a.js",
+    "main.css": "/Oasys-Homepage/static/css/main.d6611b99.css",
+    "main.js": "/Oasys-Homepage/static/js/main.aaaa3ab3.js",
     "static/media/item-08.png": "/Oasys-Homepage/static/media/item-08.7ced035af2a0cb169664.png",
     "static/media/bg-element.jpg": "/Oasys-Homepage/static/media/bg-element.58dfb941e48dfececa61.jpg",
     "static/media/fa-duotone-900.svg": "/Oasys-Homepage/static/media/fa-duotone-900.bac7a949fdfa983ff8a5.svg",
@@ -37,6 +37,7 @@
     "static/media/fa-brands-400.woff2": "/Oasys-Homepage/static/media/fa-brands-400.0ffa8f97ca92f387e47f.woff2",
     "static/media/item-13.png": "/Oasys-Homepage/static/media/item-13.f8ce6667f2f0686ff461.png",
     "static/media/blog-single.jpg": "/Oasys-Homepage/static/media/blog-single.f28d6d4e0d2ed8d110ee.jpg",
+    "static/media/fortress-logo.png": "/Oasys-Homepage/static/media/fortress-logo.69ca116189f4600c0bb2.png",
     "static/media/counter.png": "/Oasys-Homepage/static/media/counter.fdd095f7c1f4e42f8544.png",
     "static/media/item-12.png": "/Oasys-Homepage/static/media/item-12.c9aaed1dad009cd9e28c.png",
     "static/media/item-11.png": "/Oasys-Homepage/static/media/item-11.3b5c400afd7eb3f486d6.png",
@@ -50,6 +51,7 @@
     "static/media/blog-02.jpg": "/Oasys-Homepage/static/media/blog-02.f8c8f13d0c53c30c5928.jpg",
     "static/media/blog-03.jpg": "/Oasys-Homepage/static/media/blog-03.2923e55f26c9ba01c775.jpg",
     "static/media/blog-01.jpg": "/Oasys-Homepage/static/media/blog-01.fa8d21c17ee6541dda41.jpg",
+    "static/media/oasys-logo.png": "/Oasys-Homepage/static/media/oasys-logo.7eb609f9eacfc9fd5e3c.png",
     "static/media/blog-07.jpg": "/Oasys-Homepage/static/media/blog-07.a89eb624372f46d9155e.jpg",
     "static/media/blog-08.jpg": "/Oasys-Homepage/static/media/blog-08.6ff91ad4bc48918de077.jpg",
     "static/media/blog-10.jpg": "/Oasys-Homepage/static/media/blog-10.81e924da0d7b222ec6d6.jpg",
@@ -73,11 +75,11 @@
     "static/media/team-12.jpg": "/Oasys-Homepage/static/media/team-12.4b75e9fbfdfb63c88aaf.jpg",
     "static/media/item-16.png": "/Oasys-Homepage/static/media/item-16.558f9aa5219ee304a417.png",
     "index.html": "/Oasys-Homepage/index.html",
-    "main.55e326eb.css.map": "/Oasys-Homepage/static/css/main.55e326eb.css.map",
-    "main.00b5c38a.js.map": "/Oasys-Homepage/static/js/main.00b5c38a.js.map"
+    "main.d6611b99.css.map": "/Oasys-Homepage/static/css/main.d6611b99.css.map",
+    "main.aaaa3ab3.js.map": "/Oasys-Homepage/static/js/main.aaaa3ab3.js.map"
   },
   "entrypoints": [
-    "static/css/main.55e326eb.css",
-    "static/js/main.00b5c38a.js"
+    "static/css/main.d6611b99.css",
+    "static/js/main.aaaa3ab3.js"
   ]
 }
