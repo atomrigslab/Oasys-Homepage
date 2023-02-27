@@ -45,7 +45,7 @@ const Footer = () => {
                         <ul className="social">
                             {/*<li data-aos="fade-up" data-aos-duration="1000"><Link to="#"><i className="fab fa-facebook-f"></i></Link></li>*/}
                             <li data-aos="fade-up" data-aos-duration="1200"><Link to="#"><i className="fab fa-twitter"></i></Link></li>
-                            <li data-aos="fade-up" data-aos-duration="1400"><Link to="#"><i className="fab fa-linkedin-in"></i></Link></li>
+                            <li data-aos="fade-up" data-aos-duration="1400"><Link to="https://www.linkedin.com/company/atomrigslab/mycompany/"><i className="fab fa-linkedin-in"></i></Link></li>
                             {/*<li data-aos="fade-up" data-aos-duration="1600"><Link to="#"><i className="fab fa-youtube"></i></Link></li>*/}
                         </ul>
                     </div>

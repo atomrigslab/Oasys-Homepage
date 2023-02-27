@@ -19,13 +19,13 @@ const Partners2 = (props) => {
                             spaceBetween={30}
                             breakpoints={{
                                 0: {
-                                    slidesPerView: 2,
+                                    slidesPerView: 1,
                                     },
                                 767: {
-                                    slidesPerView: 3,
+                                    slidesPerView: 2,
                                 },
                                 991: {
-                                    slidesPerView: 4,
+                                    slidesPerView: 2,
                                 },
                                 }}
                             scrollbar={{ draggable: true }}                

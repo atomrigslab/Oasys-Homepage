@@ -40,7 +40,7 @@ const About = () => {
                             <h3 className="title mb-58" data-aos="fade-up" data-aos-duration="1000">{data.title}</h3>
                             <p className="fs-21 mb-33" data-aos="fade-up" data-aos-duration="1000">{data.desc1}</p>
                             <p className="fs-18 line-h17 mb-41" data-aos="fade-up" data-aos-duration="1000">{data.desc2}</p>
-                            <Link to="https://www.gitbook.com/" className="btn-action style-2"  data-aos="fade-up" data-aos-duration="1200">More About Us</Link>
+                            <a href="https://atomrigslab.gitbook.io/gamverse" className="btn-action style-2"  data-aos="fade-up" data-aos-duration="1200">More About Us</a>
                         </div>
                     </div>
                 </div>

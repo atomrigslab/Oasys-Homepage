@@ -22,7 +22,7 @@ const SliderTwo = () => {
                             {/*<h6 className="sub-title mb-6" data-aos="fade-up">{datatext.subtitle}</h6>*/}
                             {/*<h2 className="title mb-26" data-aos="fade-up">Most Popular NFT <br /> Collections</h2>*/}
                             <div className="title mb-26" data-aos="fade-up"><img className='desc' src={item.logo} alt="Monteno" /></div>   {/* item.js 에 임의로 로고 위치지정  */}
-                            <p className="desc mb-53" data-aos="fade-up">{datatext.desc}</p>
+                            <p className="desc mb-44 m-auto" data-aos="fade-up">{datatext.desc}</p>
                             {/*<Link to="/about" className="btn-action style-2" data-aos="fade-up" data-aos-duration="1200" >Get Connected</Link>*/}
                             
                             <div className="shape">

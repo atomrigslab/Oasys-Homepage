@@ -925,8 +925,9 @@
         margin-bottom: 107px;
         text-align: center;
         .quote {
-            width: 310px;
+            width: 100%;
             height: 206px;
+            object-fit: cover;
         }
         .social {
             text-align: center;

@@ -12,8 +12,7 @@ const Testimonials2 = (props) => {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="block-text center">
-                            <h3 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">Games</h3>
-                            <h3 className="title mb-28" data-aos="fade-up" data-aos-duration="1000">What People Say <br /> About us</h3>
+                            <h5 className="sub-title mb-10" data-aos="fade-up" data-aos-duration="1000">Games</h5>
                         </div>
                     </div>
                 </div>

@@ -46,7 +46,7 @@ const FooterStyle2 = () => {
                                     <ul className="social">
                                         {/*<li><Link to="#"><i className="fab fa-facebook-f"></i></Link></li>*/}
                                         <li><Link to="#"><i className="fab fa-twitter"></i></Link></li>
-                                        <li><Link to="#"><i className="fab fa-linkedin-in"></i></Link></li>
+                                        <li><a href="https://www.linkedin.com/company/atomrigslab/mycompany/"><i className="fab fa-linkedin-in"></i></a></li>
                                         {/*<li><Link to="#"><i className="fab fa-youtube"></i></Link></li>*/}
                                     </ul>
                                 </div>
